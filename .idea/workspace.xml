@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a16c1d79-d175-43d8-9894-65485764ac38" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/F01_Login.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/F02_Signup.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Runner/TestRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/P01_Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/P02_Signup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/D01_Login.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/D02_Signup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/Hooks.java" beforeDir="false" />
-    </list>
+    <list default="true" id="a16c1d79-d175-43d8-9894-65485764ac38" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,12 +26,12 @@
     &quot;assignee&quot;: &quot;Miskovy&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Miskovy/WebAutomationDemo.git&quot;,
-    &quot;accountId&quot;: &quot;0e28899f-fa5c-438d-aeb7-3692dfe131d0&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Miskovy/InternationalKnowledgeAutomationTesting.git",
+    "accountId": "0e28899f-fa5c-438d-aeb7-3692dfe131d0"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
