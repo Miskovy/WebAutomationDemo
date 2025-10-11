@@ -14,7 +14,6 @@ public class P02_Signup {
 
     private WebDriverWait wait = new WebDriverWait(Hooks.driver, Duration.ofSeconds(10));
 
-    // Page Elements using methods
     public WebElement firstName() {
         return Hooks.driver.findElement(By.xpath("//*[@id=\"firstName\"]"));
     }
